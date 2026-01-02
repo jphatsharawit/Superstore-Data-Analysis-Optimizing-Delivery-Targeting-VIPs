@@ -7,6 +7,7 @@ cleaned_superstore.csv: The clean version. Data after I removed missing values a
 analysis_code.ipynb: The workshop. My Jupyter Notebook containing all the Python code for data cleaning and RFM calculation.
 
 Logistics_Dashboard.pbix: The final product. The Power BI file ready to play with.
+
 https://app.powerbi.com/view?r=eyJrIjoiOGQwMDVjZDItMzk5Mi00NDc3LWFiMDYtMTNiNjA5OWE4MDRkIiwidCI6ImZkMjA2NzE1LTc1MDktNGFlNS05Yjk2LTc2YmI5Nzg4NmE4NCIsImMiOjEwfQ%3D%3D
 
 
@@ -17,6 +18,7 @@ cleaned_superstore.csv: ข้อมูลพร้อมใช้ ไฟล์�
 analysis_code.ipynb: ห้องเครื่อง ไฟล์ Jupyter Notebook ที่รวมโค้ด Python ทั้งหมด ตั้งแต่การคลีนข้อมูลไปจนถึงการคำนวณ RFM 
 
 Logistics_Dashboard.pbix: ผลลัพธ์สุดท้าย ไฟล์ Power BI Dashboard ฉบับสมบูรณ์ 
+
 https://app.powerbi.com/view?r=eyJrIjoiOGQwMDVjZDItMzk5Mi00NDc3LWFiMDYtMTNiNjA5OWE4MDRkIiwidCI6ImZkMjA2NzE1LTc1MDktNGFlNS05Yjk2LTc2YmI5Nzg4NmE4NCIsImMiOjEwfQ%3D%3D
 
 
