@@ -19,4 +19,4 @@ analysis_code.ipynb: ห้องเครื่อง ไฟล์ Jupyter Note
 Logistics_Dashboard.pbix: ผลลัพธ์สุดท้าย ไฟล์ Power BI Dashboard ฉบับสมบูรณ์ 
 https://app.powerbi.com/view?r=eyJrIjoiOGQwMDVjZDItMzk5Mi00NDc3LWFiMDYtMTNiNjA5OWE4MDRkIiwidCI6ImZkMjA2NzE1LTc1MDktNGFlNS05Yjk2LTc2YmI5Nzg4NmE4NCIsImMiOjEwfQ%3D%3D
 
-<iframe title="Superstore_Dashboard" width="600" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiOGQwMDVjZDItMzk5Mi00NDc3LWFiMDYtMTNiNjA5OWE4MDRkIiwidCI6ImZkMjA2NzE1LTc1MDktNGFlNS05Yjk2LTc2YmI5Nzg4NmE4NCIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
+
