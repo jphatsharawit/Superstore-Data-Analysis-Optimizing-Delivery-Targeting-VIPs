@@ -7,8 +7,7 @@ cleaned_superstore.csv: The clean version. Data after I removed missing values a
 analysis_code.ipynb: The workshop. My Jupyter Notebook containing all the Python code for data cleaning and RFM calculation. (Check this out if you want to see the logic behind the scenes!)
 
 Logistics_Dashboard.pbix: The final product. The Power BI file ready to play with.
-
-dashboard_screenshot.png: The sneak peek. A snapshot of the dashboard for quick viewing.
+https://app.powerbi.com/view?r=eyJrIjoiOGQwMDVjZDItMzk5Mi00NDc3LWFiMDYtMTNiNjA5OWE4MDRkIiwidCI6ImZkMjA2NzE1LTc1MDktNGFlNS05Yjk2LTc2YmI5Nzg4NmE4NCIsImMiOjEwfQ%3D%3D
 
 
 train.csv: วัตถุดิบตั้งต้น ข้อมูลดิบ Transaction การขายทั้งหมดที่ยังไม่ได้ผ่านการคลีน
@@ -17,6 +16,6 @@ cleaned_superstore.csv: ข้อมูลพร้อมใช้ ไฟล์�
 
 analysis_code.ipynb: ห้องเครื่อง ไฟล์ Jupyter Notebook ที่รวมโค้ด Python ทั้งหมด ตั้งแต่การคลีนข้อมูลไปจนถึงการคำนวณ RFM (ใครอยากดูเบื้องหลัง เชิญไฟล์นี้ครับ!)
 
-Logistics_Dashboard.pbix: ผลลัพธ์สุดท้าย ไฟล์ Power BI Dashboard ฉบับสมบูรณ์
+Logistics_Dashboard.pbix: ผลลัพธ์สุดท้าย ไฟล์ Power BI Dashboard ฉบับสมบูรณ์ 
+https://app.powerbi.com/view?r=eyJrIjoiOGQwMDVjZDItMzk5Mi00NDc3LWFiMDYtMTNiNjA5OWE4MDRkIiwidCI6ImZkMjA2NzE1LTc1MDktNGFlNS05Yjk2LTc2YmI5Nzg4NmE4NCIsImMiOjEwfQ%3D%3D
 
-dashboard_screenshot.png: ภาพตัวอย่าง รูปหน้าตา Dashboard สำหรับคนอยากดูเร็วๆ โดยไม่ต้องเปิดโปรแกรม
