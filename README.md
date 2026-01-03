@@ -100,7 +100,7 @@ CALCULATE(
 
 ```
 
-## 📈 Key Insights & Findings
+## Key Insights & Findings
 จากการวิเคราะห์ข้อมูลผ่าน Dashboard พบประเด็นสำคัญที่ส่งผลต่อกลยุทธ์ธุรกิจ ดังนี้:
 
 ### 1. Revenue Concentration (Pareto Principle)
@@ -115,7 +115,7 @@ CALCULATE(
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 ข้อเสนอแนะเชิงกลยุทธ์จากข้อมูล (Action Plan):
 
 1.  **Logistics Optimization:**
