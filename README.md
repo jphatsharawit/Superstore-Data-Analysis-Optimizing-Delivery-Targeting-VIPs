@@ -2,7 +2,11 @@ Superstore Data Analysis: Optimizing Delivery & Targeting VIPs
 Concept: Turning messy retail data into a Logistics & Customer Optimization Dashboard using Python and Power BI.
 
 คอนเซปต์: เปลี่ยนข้อมูลการขายที่ยุ่งเหยิง ให้เป็น Dashboard สำหรับวางแผนขนส่งและเจาะกลุ่มลูกค้าด้วย Python และ Power BI
+
+
 https://app.powerbi.com/view?r=eyJrIjoiOGQwMDVjZDItMzk5Mi00NDc3LWFiMDYtMTNiNjA5OWE4MDRkIiwidCI6ImZkMjA2NzE1LTc1MDktNGFlNS05Yjk2LTc2YmI5Nzg4NmE4NCIsImMiOjEwfQ%3D%3D
+
+
 (Click button above to interact with the dashboard / คลิกปุ่มด้านบนเพื่อเล่นแดชบอร์ดจริง)
 
 Project Objective
